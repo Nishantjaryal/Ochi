@@ -1,8 +1,48 @@
-# React + Vite
+# ✨ Ochi – A Strategic Design Studio
+![ochi](https://github.com/user-attachments/assets/829ead68-0802-4521-8787-c8ddec4a1d76)
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+A minimalist, motion-rich, and purpose-driven website for a modern design studio. Inspired by [ochi.design](https://ochi.design), this project is a celebration of clean design, bold typography, and smooth user interactions.
+
+
+
+![2](https://github.com/user-attachments/assets/fc583e9c-bbf8-4adc-a3a2-36cb0467a164)
+
+
+
+## [Ochi](https://ochi-craft.netlify.app/)
+
+**Ochi** is a digital design studio that specializes in:
+
+- Visual Branding & Identity
+- Web Design & Development
+- Motion & Interaction Design
+
+We create meaningful digital experiences that connect brands with people. This website serves as both a portfolio and a statement of our design philosophy: clarity, emotion, and elegance.
+
+![eyes](https://github.com/user-attachments/assets/e7eb5e08-d40a-4ca9-b044-54228cc0d4e0)
+
+
+## 🧰 Tech Stack
+
+- **Frontend**: Vite, React  
+- **Styling**: Tailwind CSS  
+- **Typography**: Custom Typefaces  
+- **Hosting**:  Netlify
+
+## 💡 Features
+
+- Sleek, minimalist homepage inspired by Ochi’s aesthetic  
+- Interactive hover states and scroll animations  
+- Modular and reusable component system  
+- Smooth transitions and page loading experience  
+- Responsive layout for all screen sizes
+
+
+- **Frontend:** Vite ⚡
+- **Styling:**  Tailwind  
+- **Deployment:** Netlify
+
+
+
