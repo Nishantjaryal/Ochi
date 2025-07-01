@@ -1,0 +1,15 @@
+*::selection{
+ background:transparent;
+}
+
+
+.links{
+  cursor: pointer;
+}
+
+
+.Isshow{
+  scale: 0;
+}
+
+
