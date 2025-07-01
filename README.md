@@ -21,8 +21,7 @@ A minimalist, motion-rich, and purpose-driven website for a modern design studio
 
 We create meaningful digital experiences that connect brands with people. This website serves as both a portfolio and a statement of our design philosophy: clarity, emotion, and elegance.
 
-![eyes](https://github.com/user-attachments/assets/e7eb5e08-d40a-4ca9-b044-54228cc0d4e0)
-
+![eyes](https://github.com/user-attachments/assets/9fd7d484-b157-4861-ad08-316f4166e252)
 
 ## 🧰 Tech Stack
 
