@@ -3,6 +3,7 @@
 
 
 
+
 A minimalist, motion-rich, and purpose-driven website for a modern design studio. Inspired by [ochi.design](https://ochi.design), this project is a celebration of clean design, bold typography, and smooth user interactions.
 
 
@@ -37,6 +38,8 @@ We create meaningful digital experiences that connect brands with people. This w
 - Modular and reusable component system  
 - Smooth transitions and page loading experience  
 - Responsive layout for all screen sizes
+
+  
 
 
 - **Frontend:** Vite ⚡
